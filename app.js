@@ -1340,7 +1340,7 @@ firstFunc([‘abc’, ‘123’], handler4) → “New value: cba, 321,” // с
 //   return (typeof el === 'number' && el > 5); // проверка массива на число  и на el > 5
 // }))
 
-//* проверяем, являются ли все элементы массива числами, большими 10.
+//* проверяем, являются ли все элементы массива числами, больше 10.
 // function isBigEnough(element, index, array) { 
 //   return element >= 10;
 // }
